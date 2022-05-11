@@ -9,4 +9,4 @@ SO THAT I can manage my time effectively
 3.even after reload, the page will have your shedule saved.
 4.hours that are in the past will be grey, the current hour will be red, and future hours are green.
 
-![Demo] (https://github.com/sscroggs11/Week-5-Work-Day-Scheduler/blob/main/Work_Day_Scheduler_Demo.gif?raw=true)
+![Demo](https://github.com/sscroggs11/Week-5-Work-Day-Scheduler/blob/main/Work_Day_Scheduler_Demo.gif?raw=true)
